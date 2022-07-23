@@ -1,0 +1,11 @@
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\bin\Debug\Galones a Litros.exe.config
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\bin\Debug\Galones a Litros.exe
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\bin\Debug\Galones a Litros.pdb
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\obj\Debug\Tabla de Gasolina.csproj.AssemblyReference.cache
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\obj\Debug\Tabla de Gasolina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\obj\Debug\Galones_a_Litros.Form1.resources
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\obj\Debug\Galones_a_Litros.Properties.Resources.resources
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\obj\Debug\Tabla de Gasolina.csproj.GenerateResource.cache
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\obj\Debug\Tabla de Gasolina.csproj.CoreCompileInputs.cache
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\obj\Debug\Galones a Litros.exe
+C:\Users\Dawil Herrera\Desktop\Galones-a-Litros22\Galones-a-Litros\Galones-a-Litros\Galones a Litros\Galones a Litros\obj\Debug\Galones a Litros.pdb
